@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4.touchcarousel",
+  "version": "1.0.0",
+  "description": "Touch gesture support for bootstrap 4 carousels. ",
+  "main": "bootstrap4.touchcarousel.js",
+  "scripts": {
+    "build": "webpack -p",
+    "test": "open test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjjakes/bootstrap4.touchcarousel.js.git"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "https://github.com/rjjakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjjakes/bootstrap4.touchcarousel.js/issues"
+  },
+  "homepage": "https://github.com/rjjakes/bootstrap4.touchcarousel.js#readme"
+}
